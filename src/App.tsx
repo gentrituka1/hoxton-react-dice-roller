@@ -2,8 +2,6 @@ import { useState } from 'react'
 import './App.css'
 
 
-
-
 function App() {
 
   const [die1, setDie1] = useState(0)
